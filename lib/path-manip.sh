@@ -13,7 +13,7 @@ path-remove() {
     p=""
     for d in `echo $PATH | sed -e 's/:/ /g'`; do
         if [ $d != $1 ]; then
-            if [ "$p" == "" ]; then
+            if [ "$p" = "" ]; then
                 p=$d
             else
                 p="$p:$d";
