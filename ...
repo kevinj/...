@@ -8,8 +8,8 @@
 ### it should be enough to simply change the following variables.
 ###
 
-DOTDOTDOT_SOFTWARE_REPO='git://github.com/ingydotnet/....git'
-DOT_FILES_REPO='git://github.com/ingydotnet/dotdotdot.git'
+DOTDOTDOT_SOFTWARE_REPO='git://github.com/kevinj/....git'
+DOT_FILES_REPO='git://github.com/kevinj/dotdotdot.git'
 DOT_SOURCE_ALIAS=dotdotdot
 
 ###
